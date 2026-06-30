@@ -1,0 +1,6 @@
+{
+  "name": "Asisten UMKM & Marketplace",
+  "description": "Aplikasi digital komprehensif untuk UMKM guna mengelola inventaris, mencatat keuangan secara otomatis berbasis AI, serta menjual produk secara instan melalui marketplace terintegrasi dengan pembayaran aman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
